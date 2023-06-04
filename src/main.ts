@@ -1,7 +1,7 @@
 import './style.css'
 // import './clean-code/07-tarea';
 // import './solid/03-liskov-a';
-import './Boris-Cherny/06-call-signatures'
+import './Boris-Cherny/07-contextual-typing'
 const app = document.querySelector<HTMLDivElement>('#app')!
 
 app.innerHTML = `
