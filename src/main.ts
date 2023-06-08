@@ -1,7 +1,8 @@
 import './style.css'
 // import './clean-code/07-tarea';
 // import './solid/03-liskov-a';
-import './Boris-Cherny/07-contextual-typing'
+// import './Boris-Cherny/07-contextual-typing'
+import './Boris-Cherny/Basics/enum'
 const app = document.querySelector<HTMLDivElement>('#app')!
 
 app.innerHTML = `
