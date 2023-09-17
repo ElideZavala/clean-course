@@ -57,7 +57,7 @@
 
 //TODO /* Buena practica */
 // generalment los opcional tienen a aparecer al final de la lista de parametros
-type MyEvent<Type extends string, Target extends HTMLElement = HTMLElement> = {
-    target: Target;
-    type: Type;
-};
+// type MyEvent<Type extends string, Target extends HTMLElement = HTMLElement> = {
+//     target: Target;
+//     type: Type;
+// };
