@@ -4,7 +4,8 @@ import "./style.css";
 // import './Boris-Cherny/07-contextual-typing'
 // import './Boris-Cherny/Basics/enum'
 // import "./Boris-Cherny/Clases/return-type";
-import "./Boris-Cherny/Interfaces/part-1";
+// import "./Boris-Cherny/Interfaces/part-1";
+import "./Boris-Cherny/Interfaces/Implementaciones";
 const app = document.querySelector<HTMLDivElement>("#app")!;
 
 app.innerHTML = `
