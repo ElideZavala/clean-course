@@ -7,7 +7,8 @@ import "./style.css";
 // import "./Boris-Cherny/Interfaces/part-1";
 // import "./Boris-Cherny/Polimorfismo/part-1";
 // import "./Boris-Cherny/Polimorfismo/part-2";
-import "./Boris-Cherny/Mixins/part-1";
+// import "./Boris-Cherny/Mixins/part-1";
+import "./Boris-Cherny/Decorators/part-1";
 // import "./Boris-Cherny/Interfaces/structurally";
 const app = document.querySelector<HTMLDivElement>("#app")!;
 
