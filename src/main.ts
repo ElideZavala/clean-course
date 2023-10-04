@@ -9,8 +9,9 @@ import "./style.css";
 // import "./Boris-Cherny/Polimorfismo/part-2";
 // import "./Boris-Cherny/Mixins/part-1";
 // import "./Boris-Cherny/Decorators/part-1";
-import "./Boris-Cherny/Simulating-final-Classes/MessageQueue";
+// import "./Boris-Cherny/Simulating-final-Classes/MessageQueue";
 // import "./Boris-Cherny/Interfaces/structurally";
+import "./Boris-Cherny/Design Patterns/Factory-pattern";
 const app = document.querySelector<HTMLDivElement>("#app")!;
 
 app.innerHTML = `
