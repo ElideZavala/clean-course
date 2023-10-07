@@ -11,7 +11,8 @@ import "./style.css";
 // import "./Boris-Cherny/Decorators/part-1";
 // import "./Boris-Cherny/Simulating-final-Classes/MessageQueue";
 // import "./Boris-Cherny/Interfaces/structurally";
-import "./Boris-Cherny/Design Patterns/Factory-pattern";
+// import "./Boris-Cherny/Design Patterns/Factory-pattern";
+import "./Boris-Cherny/Type-SubType/Type-Widening";
 const app = document.querySelector<HTMLDivElement>("#app")!;
 
 app.innerHTML = `
