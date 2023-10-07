@@ -12,7 +12,8 @@ import "./style.css";
 // import "./Boris-Cherny/Simulating-final-Classes/MessageQueue";
 // import "./Boris-Cherny/Interfaces/structurally";
 // import "./Boris-Cherny/Design Patterns/Factory-pattern";
-import "./Boris-Cherny/Type-SubType/Type-Widening";
+// import "./Boris-Cherny/Type-SubType/Type-Widening";
+import "./Boris-Cherny/Type-SubType/MouseModel";
 const app = document.querySelector<HTMLDivElement>("#app")!;
 
 app.innerHTML = `
