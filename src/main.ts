@@ -13,7 +13,8 @@ import "./style.css";
 // import "./Boris-Cherny/Interfaces/structurally";
 // import "./Boris-Cherny/Design Patterns/Factory-pattern";
 // import "./Boris-Cherny/Type-SubType/Type-Widening";
-import "./Boris-Cherny/Type-SubType/MouseModel";
+// import "./Boris-Cherny/Type-SubType/MouseModel";
+import "./Boris-Cherny/Type-Operators-Object-Types/Keyof-Operators";
 const app = document.querySelector<HTMLDivElement>("#app")!;
 
 app.innerHTML = `
