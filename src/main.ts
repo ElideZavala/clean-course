@@ -18,7 +18,8 @@ import "./style.css";
 // import "./Boris-Cherny/Type-Operators-Object-Types/Keyof-Operators";
 // import "./Boris-Cherny/Companion-Object-Pattern/Currency";
 // import "./Boris-Cherny/Companion-Object-Pattern/useCurrency";
-import "./Boris-Cherny/Advanced-Function-Types/improving-Type.ts";
+// import "./Boris-Cherny/Advanced-Function-Types/improving-Type.ts";
+import "./Boris-Cherny/Advanced-Function-Types/User-Defined-Type-Guards";
 const app = document.querySelector<HTMLDivElement>("#app")!;
 
 app.innerHTML = `
