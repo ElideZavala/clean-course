@@ -22,6 +22,12 @@ import "./style.css";
 import "./Boris-Cherny/Advanced-Function-Types/User-Defined-Type-Guards";
 const app = document.querySelector<HTMLDivElement>("#app")!;
 
+declare global {
+    interface Array<T> {
+        zip<U>(list: U[]): [T, U][];
+    }
+}
+
 app.innerHTML = `
   <h1>CleanCode y SOLID</h1>
   <span>Revisar la consola de JavaScript</span>
