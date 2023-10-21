@@ -15,5 +15,8 @@
     "noImplicitReturns": true,
     "experimentalDecorators": true
   },
-  "include": ["src"]
+  "exclude": [
+    "./zip.ts"
+  ],
+  "include": ["src"],
 }
