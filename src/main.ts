@@ -20,7 +20,9 @@ import "./style.css";
 // import "./Boris-Cherny/Companion-Object-Pattern/useCurrency";
 // import "./Boris-Cherny/Advanced-Function-Types/improving-Type.ts";
 // import "./Boris-Cherny/Advanced-Function-Types/User-Defined-Type-Guards";
-import "./Boris-Cherny/Handling-Errors/Throwing-Exceptions";
+// import "./Boris-Cherny/Handling-Errors/Throwing-Exceptions";
+// import "./Boris-Cherny/Handling-Errors/Type-Option-Types";
+import "./Boris-Cherny/Handling-Errors/Option";
 const app = document.querySelector<HTMLDivElement>("#app")!;
 
 declare global {
