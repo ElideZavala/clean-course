@@ -23,7 +23,8 @@ import "./style.css";
 // import "./Boris-Cherny/Handling-Errors/Throwing-Exceptions";
 // import "./Boris-Cherny/Handling-Errors/Type-Option-Types";
 // import "./Boris-Cherny/Handling-Errors/Option";
-import "./Boris-Cherny/Asynchronous/Event-Loop";
+// import "./Boris-Cherny/Asynchronous/Event-Loop";
+import "./Boris-Cherny/Asynchronous/async&await";
 const app = document.querySelector<HTMLDivElement>("#app")!;
 
 declare global {

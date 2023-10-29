@@ -11,5 +11,8 @@
     "@types/node": "^20.8.7",
     "typescript": "^4.5.4",
     "vite": "^2.8.0"
+  },
+  "dependencies": {
+    "redis": "^4.6.10"
   }
 }
